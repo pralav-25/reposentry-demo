@@ -1,0 +1,4 @@
+# Intentionally outdated versions for RepoSentry scanner demonstrations only.
+Django==2.2.0
+Pillow==8.1.2
+requests==2.19.1
